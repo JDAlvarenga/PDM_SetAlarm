@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Set Alarm</string>
+    <string name="txt_vibrate">VIBRATE</string>
+    <string name="txt_repeat">REPEAT</string>
+    <string name="txt_day_sunday">Sun</string>
+    <string name="txt_day_monday">Mon</string>
+    <string name="txt_day_tuesday">Tue</string>
+    <string name="txt_day_wednesday">Wed</string>
+    <string name="txt_day_thursday">Thu</string>
+    <string name="txt_day_friday">Fri</string>
+    <string name="txt_day_saturday">Sat</string>
+</resources>
